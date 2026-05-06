@@ -128,6 +128,8 @@ Lucky Five Poker 是一款使用 **C# Windows Forms** 開發的五張牌撲克�
 PictureBox[] pic = new PictureBox[5];
 int[] allPoker = new int[52];
 int[] playerPoker = new int[5];
+<img width="722" height="617" alt="image" src="https://github.com/user-attachments/assets/0a9f952c-f17e-47fc-8141-cca9c552447e" />
+
 
 int totalMoney = 1000000;
 int currentBet = 0;
